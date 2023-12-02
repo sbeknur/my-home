@@ -7,13 +7,13 @@
                 <ul class="menu__list">
                     <li class="menu__item"><a href="#" class="menu__link">Начало работы</a></li>
                     <li class="menu__item"><a href="#" class="menu__link">Гид по строительству и дизайну</a></li>
-                    <li class="menu__item"><a href="#" class="menu__link menu__link-icon">Поддержка</a></li>
+                    <li class="menu__item"><a href="#" class="menu__link menu__link-icon"><img src="img/heart.svg" alt="heart" class="icon icon-heart">Поддержка</a></li>
                 </ul>
             </nav>
 
             <div class="header__buttons">
-                <button class="button button-download">Скачать</button>
-                <button class="button button-buy">Купить</button>
+                <button class="button button-download">Скачать<img src="img/download.svg" alt="download"></button>
+                <button class="button button-buy">Купить<img src="img/buy.svg" alt="buy"></button>
             </div>
         </div>
     </div>
