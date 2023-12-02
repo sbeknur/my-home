@@ -30,7 +30,7 @@
                 <p class="article__subtitle">Lorem ipsum dolor sit amet consectetur. Turpis risus lorem id faucibus convallis ut. Vel in nunc lacus sagittis ac at varius</p>
 
                 <div class="artilce__author author">
-                    <img src="img/author.png" alt="author" class="author__img">
+                    <img src="img/author.webp" alt="author" class="author__img">
 
                     <div class="author__desc">
                         <span class="author__name">Арсений Даниленко</span>
@@ -38,7 +38,7 @@
                     </div>
                 </div>
 
-                <img src="img/back.png" alt="background" class="article__background">
+                <img src="img/back.webp" alt="background" class="article__background">
             </div>
         </div>
     </div>
@@ -47,10 +47,10 @@
         <div class="container">
             <div class="download__inner">
                 <div class="download__slider slider">
-                    <img src="img/slide1.png" alt="slide1" class="slider__img">
-                    <img src="img/slide1.png" alt="slide2" class="slider__img">
-                    <img src="img/slide1.png" alt="slide3" class="slider__img">
-                    <img src="img/slide1.png" alt="slide4" class="slider__img">
+                    <img src="img/slide1.webp" alt="slide1" class="slider__img">
+                    <img src="img/slide1.webp" alt="slide2" class="slider__img">
+                    <img src="img/slide1.webp" alt="slide3" class="slider__img">
+                    <img src="img/slide1.webp" alt="slide4" class="slider__img">
                 </div>
 
                 <div class="download__desc">
